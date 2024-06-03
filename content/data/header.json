@@ -83,7 +83,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Test page",
             "altText": "",
             "url": "/testpage",
             "showIcon": false,
